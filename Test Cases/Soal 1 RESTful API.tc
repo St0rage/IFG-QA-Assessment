@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Soal 1 RESTful API</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Dani Yudistira Maulana</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Dani Yudistira Maulana</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>57dab818-8d79-4dbd-bf68-8a7137139b50</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>57dab818-8d79-4dbd-bf68-8a7137139b50</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6942cf7-4079-43a1-9ee2-2ab53c224f96</testCaseGuid>
+</TestCaseEntity>
